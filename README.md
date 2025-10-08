@@ -9,3 +9,8 @@ flowchart TD
   App -->|contacts, onUpdate|CT[ContactTable.jsx]
   CT -->|onUpdate 'updatedContact'|App
 ```
+# Patterns
+1. Container–Presentational Pattern
+2. Unidirectional Data Flow
+3. Controlled Components Pattern
+4. Lifting State Up
